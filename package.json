@@ -1,0 +1,30 @@
+{
+  "name": "calculatorz",
+  "version": "1.1.1",
+  "description": "this module is just for simple calculation like addition subtraction multiplication etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"no test command specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubairShaikh721/calculatorz.git"
+  },
+  "keywords": [
+    "calcultor",
+    "calc",
+    "calculation",
+    "addition",
+    "in",
+    "nodejs",
+    "calculation",
+    "in",
+    "nodejs"
+  ],
+  "author": "zubair lee <johnextentia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zubairShaikh721/calculatorz/issues"
+  },
+  "homepage": "https://github.com/zubairShaikh721/calculatorz#readme"
+}
